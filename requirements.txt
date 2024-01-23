@@ -1,0 +1,4 @@
+boto3==1.18.25  # Replace with the latest compatible version
+urllib3==1.26.7
+chardet==5.2.0
+charset_normalizer==3.3.2
