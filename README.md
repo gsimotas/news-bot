@@ -3,6 +3,8 @@
 News bot that sends an email once a week of a positive news story.
 
 ## How it Works
+![IMG_4C5819334544-1](https://github.com/gsimotas/news-bot/assets/121892730/8312a185-16a0-440b-991c-e7ade16ed445)
+
 
 ### NewsAPI
 
